@@ -21,4 +21,4 @@ Tchnologies Used
 Installation
 
 -Clone the repository using git clone https://github.com/Psderrick/Cloning-YouTube-interface-using-HTML-CSS.git
--Open the index.html file in a web browser to view the cloned interface.
+
