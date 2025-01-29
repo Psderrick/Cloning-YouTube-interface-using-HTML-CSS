@@ -11,14 +11,14 @@
 -Video grid layout with placeholder thumbnails
 
 
-<h2>Tchnologies Used</h2> 
+<h3>Technologies Used</h3> 
 
 *HTML for structuring content 
 *CSS for styling and layout 
 *No JavaScript used in this version (static HTML/CSS only)
 
 
-<h3>Installation</h3>h3>
+<h4>Installation</h4>
 
 -Clone the repository using git clone https://github.com/Psderrick/Cloning-YouTube-interface-using-HTML-CSS.git
 
