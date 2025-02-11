@@ -1,23 +1,24 @@
-YouTube Interface Clone.
+<h1>**YouTube Interface Clone.**</h1>
 
  A Front-end replica of the YouTube interface, built using HTML and CSS
 
-FEATURES
--Responsive design for various screen sizes
+<h2>FEATURES</h2>
 
--Functional navigation bar with dropdown menus
+- Responsive design for various screen sizes
 
--Video grid layout with placeholder thumbnails
+- Functional navigation bar with dropdown menus
 
-
-Tchnologies Used 
-*HTML for structuring content 
-*CSS for styling and layout 
-*No JavaScript used in this version (static HTML/CSS only)
+- Video grid layout with placeholder thumbnails
 
 
-Installation
+<h3>Technologies Used</h3> 
 
--Clone the repository using git clone https://github.com/Psderrick/Cloning-YouTube-interface-using-HTML-CSS.git
+- HTML for structuring content 
+- CSS for styling and layout 
+- No JavaScript used in this version (static HTML/CSS only)
 
--Open the index.html file in a web browser to view the cloned interface.
+
+<h4>Installation</h4>
+
+- Clone the repository using git clone https://github.com/Psderrick/Cloning-YouTube-interface-using-HTML-CSS.git
+
